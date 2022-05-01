@@ -28,6 +28,7 @@ cd UPC-Pytorch
 ```
 
 2. Download the Left Atrium dataset in [Google drive](https://drive.google.com/file/d/1CKEtfOGRQhjySYf4MnTgrdEOcuYbBC2t/view?usp=sharing).
+Put the data in './data/'  folder
 ```
 cd code/dataloaders
 python la_heart_processing.py
