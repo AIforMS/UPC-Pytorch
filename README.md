@@ -37,7 +37,7 @@ python la_heart_processing.py
 3. Train the model
 ```
 cd code
-python train_la_upc.py
+python train_LA_UPC.py
 ```
 
 4. Test the model
