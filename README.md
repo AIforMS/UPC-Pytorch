@@ -5,8 +5,6 @@ by [Liyun Lu](https://github.com/liyun-lu), Mengxiao Yin, Liyao Fu, Feng Yang.
 ## Introduction
 This repository is the Pytorch implementation of "Uncertainty-aware Pseudo-label and Consistency for Semi-supervised Medical Image Segmentationh"
 
-Our paper and code will be release soon.
-
 ## Requirements
 We implemented our experiment on the super parallel computer system of Guangxi University. The specific configuration is as follows:
 * Centos 7.4
